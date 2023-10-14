@@ -61,7 +61,7 @@ function ServerStatus() {
                 <div className=" md:w-[200px] bg-red-600 p-3 mt-2 z-10 mb-[-10px] text-center rounded-xl text-sm">
                     Currently Offline
                 </div>
-                <div className=" bg-orange-600 p-5 text-center rounded-md md:text-xl">
+                <div className=" bg-orange-600 md:p-5 p-2 text-center rounded-md md:text-xl">
                     www.minecraft.adithyakrishnan.com/14060
                 </div>
 
@@ -69,7 +69,7 @@ function ServerStatus() {
             <div className=" md:w-[200px] bg-blue-600 p-3 mt-2 z-10 mb-[-10px] text-center rounded-xl text-sm">
             Online Players : {data.players.online}
                 </div>
-                <div className=" bg-green-500 p-5 text-center rounded-md md:text-xl">
+                <div className=" bg-green-500 md:p-5 p-2 text-center rounded-md md:text-xl">
                     www.minecraft.adithyakrishnan.com/14060
                 </div>
                 
