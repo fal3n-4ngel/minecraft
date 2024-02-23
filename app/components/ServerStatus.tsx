@@ -67,7 +67,7 @@ function ServerStatus() {
             Online Players : {data.players.online}
                 </div>
                 <div className=" bg-green-500 md:p-5 p-2 text-center rounded-md md:text-xl">
-                    www.minecraft.adithyakrishnan.com/14060
+                    www.minecraft.adithyakrishnan.com:14060
                 </div>
                 
             </div>}
