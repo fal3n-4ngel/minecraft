@@ -9,10 +9,10 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@next/font": "^14.1.0",
     "dgram": "^1.0.1",
     "mc-ping-updated": "^0.1.1",
     "minecraft-protocol": "^1.44.0",
-    "minecraft-server-util": "^5.4.4",
     "minestat": "^2.0.0",
     "next": "13.5.4",
     "react": "^18",
